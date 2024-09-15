@@ -1,8 +1,8 @@
-# React + Vite
+# React Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple counter application built using React that allows users to increment and decrement the counter value within a defined range (0 to 20).
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Increment**: Increases the counter value by 1, with a maximum limit of 20.
+- **Decrement**: Decreases the counter value by 1, with a minimum limit of 0.
